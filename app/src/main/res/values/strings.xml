@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">Compose_Basics</string>
+    <string name="title"> Jetpack Compose tutorial</string>
+</resources>
+
